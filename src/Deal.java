@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DeckDriver
+public class Deal
 {
     public static void main (String [ ] args)
     {
